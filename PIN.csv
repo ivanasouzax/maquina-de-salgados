@@ -1,0 +1,83 @@
+# Copyright (C) 1991-2013 Altera Corporation
+# Your use of Altera Corporation's design tools, logic functions 
+# and other software and tools, and its AMPP partner logic 
+# functions, and any output files from any of the foregoing 
+# (including device programming or simulation files), and any 
+# associated documentation or information are expressly subject 
+# to the terms and conditions of the Altera Program License 
+# Subscription Agreement, Altera MegaCore Function License 
+# Agreement, or other applicable license agreement, including, 
+# without limitation, that your use is for the sole purpose of 
+# programming logic devices manufactured by Altera and sold by 
+# Altera or its authorized distributors.  Please refer to the 
+# applicable agreement for further details.
+
+# Quartus II 32-bit Version 13.0.1 Build 232 06/12/2013 Service Pack 1 SJ Web Edition
+# File: C:\altera\13.0sp1\PIN.csv
+# Generated on: Tue Jun 25 22:00:43 2024
+
+# Note: The column header names should not be changed if you wish to import this .csv file into the Quartus II software.
+
+To,Direction,Location,I/O Bank,VREF Group,Fitter Location,I/O Standard,Reserved,Current Strength,Differential Pair
+clk,Input,PIN_D12,3,B3_N0,PIN_M1,,,,
+confirmar_moeda,Input,PIN_R21,6,B6_N0,PIN_M2,,,,
+confirmar_salgado,Input,PIN_T22,6,B6_N0,PIN_AB13,,,,
+display_dinheiro_centena[6],Output,PIN_D3,2,B2_N0,PIN_B9,,,,
+display_dinheiro_centena[5],Output,PIN_E4,2,B2_N0,PIN_F13,,,,
+display_dinheiro_centena[4],Output,PIN_E3,2,B2_N0,PIN_F12,,,,
+display_dinheiro_centena[3],Output,PIN_C1,2,B2_N0,PIN_G12,,,,
+display_dinheiro_centena[2],Output,PIN_C2,2,B2_N0,PIN_T11,,,,
+display_dinheiro_centena[1],Output,PIN_G6,2,B2_N0,PIN_A13,,,,
+display_dinheiro_centena[0],Output,PIN_G5,2,B2_N0,PIN_L19,,,,
+display_dinheiro_dezena[6],Output,PIN_D1,2,B2_N0,PIN_B7,,,,
+display_dinheiro_dezena[5],Output,PIN_D2,2,B2_N0,PIN_H11,,,,
+display_dinheiro_dezena[4],Output,PIN_G3,2,B2_N0,PIN_A7,,,,
+display_dinheiro_dezena[3],Output,PIN_H4,2,B2_N0,PIN_A8,,,,
+display_dinheiro_dezena[2],Output,PIN_H5,2,B2_N0,PIN_B14,,,,
+display_dinheiro_dezena[1],Output,PIN_H6,2,B2_N0,PIN_D9,,,,
+display_dinheiro_dezena[0],Output,PIN_E1,2,B2_N1,PIN_B8,,,,
+display_dinheiro_unidade[6],Output,PIN_E2,2,B2_N1,PIN_AB12,,,,
+display_dinheiro_unidade[5],Output,PIN_F1,2,B2_N1,PIN_AA13,,,,
+display_dinheiro_unidade[4],Output,PIN_F2,2,B2_N1,PIN_A16,,,,
+display_dinheiro_unidade[3],Output,PIN_H1,2,B2_N1,PIN_AA11,,,,
+display_dinheiro_unidade[2],Output,PIN_H2,2,B2_N1,PIN_J1,,,,
+display_dinheiro_unidade[1],Output,PIN_J1,2,B2_N1,PIN_T12,,,,
+display_dinheiro_unidade[0],Output,PIN_J2,2,B2_N1,PIN_Y13,,,,
+display_salgado[6],Output,PIN_D4,2,B2_N0,PIN_M5,,,,
+display_salgado[5],Output,,,,PIN_D11,,,,
+display_salgado[4],Output,PIN_L8,2,B2_N1,PIN_E9,,,,
+display_salgado[3],Output,PIN_J4,2,B2_N1,PIN_A14,,,,
+display_salgado[2],Output,,,,PIN_AB10,,,,
+display_salgado[1],Output,PIN_D5,2,B2_N0,PIN_H9,,,,
+display_salgado[0],Output,PIN_F4,2,B2_N0,PIN_H10,,,,
+estado[2],Output,PIN_V22,6,B6_N1,PIN_W11,,,,
+estado[1],Output,PIN_U2,1,B1_N1,PIN_AA9,,,,
+estado[0],Output,PIN_U22,6,B6_N1,PIN_AA10,,,,
+iniciar,Input,PIN_L2,2,B2_N1,PIN_AA12,,,,
+led_verde,Output,PIN_Y21,6,B6_N1,PIN_E11,,,,
+led_vermelho,Output,PIN_R20,6,B6_N0,PIN_P2,,,,
+liberar,Input,PIN_M1,1,B1_N0,PIN_M6,,,,
+moedas[1],Input,PIN_L21,5,B5_N1,PIN_V11,,,,
+moedas[0],Input,PIN_L22,5,B5_N1,PIN_R11,,,,
+reset,Input,PIN_R22,6,B6_N0,PIN_AB9,,,,
+saldo_dinheiro[9],Output,,,,PIN_G11,,,,
+saldo_dinheiro[8],Output,,,,PIN_F11,,,,
+saldo_dinheiro[7],Output,,,,PIN_B11,,,,
+saldo_dinheiro[6],Output,,,,PIN_F10,,,,
+saldo_dinheiro[5],Output,,,,PIN_A10,,,,
+saldo_dinheiro[4],Output,,,,PIN_B10,,,,
+saldo_dinheiro[3],Output,,,,PIN_A11,,,,
+saldo_dinheiro[2],Output,,,,PIN_C10,,,,
+saldo_dinheiro[1],Output,,,,PIN_A9,,,,
+saldo_dinheiro[0],Output,,,,PIN_B13,,,,
+selecionar,Input,PIN_T21,6,B6_N0,PIN_L1,,,,
+valor_salgado[9],Output,,,,PIN_U18,,,,
+valor_salgado[8],Output,,,,PIN_H12,,,,
+valor_salgado[7],Output,,,,PIN_F14,,,,
+valor_salgado[6],Output,,,,PIN_D14,,,,
+valor_salgado[5],Output,PIN_F3,2,B2_N0,PIN_C13,,,,
+valor_salgado[4],Output,,,,PIN_A15,,,,
+valor_salgado[3],Output,,,,PIN_E14,,,,
+valor_salgado[2],Output,PIN_D6,2,B2_N0,PIN_AB11,,,,
+valor_salgado[1],Output,,,,PIN_B15,,,,
+valor_salgado[0],Output,,,,PIN_B16,,,,
